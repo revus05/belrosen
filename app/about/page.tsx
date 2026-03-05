@@ -146,7 +146,7 @@ export default function AboutPage() {
           <CardContent>
             <Button
               asChild
-              className="rounded-full bg-white text-primary hover:bg-white/90"
+              className="rounded-full bg-white text-primary hover:bg-white/90 border hover:border-white hover:text-white"
             >
               <Link href="/contacts">Перейти к форме</Link>
             </Button>
